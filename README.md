@@ -186,26 +186,7 @@ Este módulo funciona como administrador principal del sistema.
 
 ---
 
-# 📂 Estructura del proyecto
 
-```bash
-HouseRentalPlatform/
-│
-├── admin/                    # Panel administrativo
-├── properties/               # Gestión de propiedades
-├── customer/                 # Módulo cliente
-├── assets/                   # Recursos frontend
-├── uploads/                  # Imágenes de propiedades
-├── database/                 # Scripts SQL
-├── includes/                 # Configuración y conexión
-├── index.php                 # Página principal
-├── login.php                 # Inicio de sesión
-├── register.php              # Registro de usuarios
-├── README.md
-└── LICENSE
-```
-
----
 
 # ⚡ Instalación
 
@@ -224,7 +205,7 @@ HouseRentalPlatform/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/HouseRentalPlatform.git
+git clone https://github.com/isairey/Plataforma-AdministracionViviendas.git
 ```
 
 ---
@@ -234,7 +215,7 @@ git clone https://github.com/isairey/HouseRentalPlatform.git
 Copiar proyecto hacia:
 
 ```bash
-xampp/htdocs/HouseRentalPlatform/
+xampp/htdocs/Plataforma-AdministracionViviendas/
 ```
 
 ---
@@ -315,39 +296,6 @@ http://localhost/HouseRentalPlatform/
 - Información detallada
 - Navegación intuitiva
 
----
-
-# 📸 Vista previa
-
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 🏠 Página principal
-![Home](https://images.unsplash.com/photo-1568605114967-8130f3a36994?q=80&w=1200&auto=format&fit=crop)
-
-### 🔐 Inicio de sesión
-![Login](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1200&auto=format&fit=crop)
-
-### 🏘️ Listado de propiedades
-![Properties](https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1200&auto=format&fit=crop)
-
-### 📋 Detalles de vivienda
-![Details](https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1200&auto=format&fit=crop)
-
-### 📊 Dashboard administrativo
-![Dashboard](https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop)
-
-### 👥 Gestión de usuarios
-![Users](https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=1200&auto=format&fit=crop)
-
-### 📅 Gestión de alquileres
-![Rental](https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1200&auto=format&fit=crop)
-
-### ⚙️ Configuración del sistema
-![Settings](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1200&auto=format&fit=crop)
-
-</div>
 
 ---
 
